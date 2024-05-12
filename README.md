@@ -12,3 +12,4 @@ python app.py
 
 To access your flask application open new tab in and paste the url:
 
+![image](https://github.com/MonishKanungo/Forestfire/assets/114340159/22945668-218d-49ff-a6fc-0886a230e9b6)
